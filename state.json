@@ -1,0 +1,18 @@
+{
+  "day_open_time_ms": 1768867200000,
+  "day_open_price": "3188.14",
+  "buy_stop": "3282.85",
+  "sell_stop": "3167.5",
+  "long_trigger_active": true,
+  "short_trigger_active": false,
+  "position_amt": "0",
+  "entry_price": null,
+  "high_water": null,
+  "low_water": null,
+  "be_done": false,
+  "stop_price": null,
+  "sl_client_algo_id": null,
+  "tp_client_order_id": null,
+  "last_price": "2987.65",
+  "prev_price": "2987.65"
+}
